@@ -1,0 +1,19 @@
+button{
+   width: 200px;
+   background: orange;
+   color: black;
+}
+p{
+   width: 50%;
+   border: 1px solid black;
+   text-align: center;
+   background: blue;
+   color: white;
+}
+
+.Abrir{
+   display: block;
+}
+.Cerrar{
+   display: none;
+}
